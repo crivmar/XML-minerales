@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<minerals>
+    <mineral>
+        <name>Abelsonite</name>
+        <image>https://www.ecured.cu/images/5/5d/Descarga2547.jpg</image>
+        <information>
+            <category>Organic</category>
+            <formula>C
+                <sub>31</sub>H
+                <sub>32</sub>N
+                <sub>4</sub>Ni
+            </formula>
+            <strunz>10.CA.20</strunz> <!-- Clasificación de Strunz -->
+            <crystal>Triclinic</crystal> <!-- Sistema cristalino -->
+            <color>Pink-purple, dark greyish purple, pale purplish red, reddish brown</color>
+            <luster>Adamantine, sub-metallic</luster> <!-- Brillo -->
+            <streak>Pink</streak> <!-- Raya -->
+            <diaphaneity>Semitransparent</diaphaneity>
+            <group>Organic Minerals</group>
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Abernathyite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/3/37/Abernathyite%2C_Heinrichite-497484.jpg</image>
+        <information>
+            <category>Arsenate</category>
+            <formula>K(UO
+                <sub>2</sub>)(AsO
+                <sub>4</sub>)·
+                <sub>3</sub>H
+                <sub>2</sub>O
+            </formula>
+            <strunz>08.EB.15</strunz>
+            <crystal>Tetragonal</crystal>
+            <color>Yellow</color>
+            <luster>Sub-Vitreous, resinous, waxy, greasy</luster>
+            <streak>Pale yellow</streak>
+            <diaphaneity>Transparent</diaphaneity>
+            <group>Arsenates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Abramovite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/d/dc/Abramovite.jpg</image>
+        <information>
+            <category>Sulfides and Sulfosalts</category>
+            <formula>Pb
+                <sub>2</sub>SnInBiS
+                <sub>7</sub>
+            </formula>
+            <strunz>02.HF.25a</strunz>
+            <crystal>Triclinic - Pinacoidal; Space group = P1</crystal>
+            <color>Silver gray</color>
+            <luster>Metallic</luster>
+            <streak>Black</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Sulfides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Actinolite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Actinolite_Portugal.jpg/280px-Actinolite_Portugal.jpg</image>
+        <information>
+            <category>Inosilicates</category>
+            <formula>Ca
+                <sub>2</sub>(Mg
+                <sub>4</sub>.
+                <sub>5</sub>-
+                <sub>2</sub>.
+                <sub>5</sub>Fe
+                <sub>2</sub>+
+                <sub>0</sub>.
+                <sub>5</sub>-
+                <sub>2</sub>.
+                <sub>5</sub>)Si
+                <sub>8</sub>O
+                <sub>22</sub>(OH)
+                <sub>2</sub>
+            </formula>
+            <strunz>09.DE.10</strunz>
+            <crystal>monoclinic – prismatic, H-M</crystal>
+            <color>pale to dark green, yellowish green and black. White or grey when in asbestos</color>
+            <luster>vitreous to dull</luster>
+            <streak>white</streak>
+            <diaphaneity>translucent to transparent</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Adamite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Adamite-179841.jpg/270px-Adamite-179841.jpg</image>
+        <information>
+            <category>Arsenate</category>
+            <formula>Zn
+                <sub>2</sub>AsO
+                <sub>4</sub>OH
+            </formula>
+            <strunz>08.BB.30</strunz>
+            <crystal>Orthorhombic Dipyramidal H-M Symbol (2/m 2/m 2/m) Space Group: Pnnm</crystal>
+            <color>Pale yellow, honey-yellow, brownish yellow, reddish; rarely white, colorless, blue, pale green to green, may be zoned;</color>
+            <luster>Vitreous</luster>
+            <streak>white to pale green</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Arsenates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Aegirine</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi.jpg/1024px-Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi.jpg</image>
+        <information>
+            <category>Silicate, Pyroxene</category>
+            <formula>
+                <sub>231</sub>.
+                <sub>00</sub>
+            </formula>
+            <strunz>09.DA.25</strunz>
+            <crystal>Monoclinic Prismatic</crystal>
+            <color>Dark Green, Greenish Black</color>
+            <luster>Vitreous to slightly resinous</luster>
+            <streak>Yellowish-grey</streak>
+            <diaphaneity>Translucent to opaque</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Aenigmatite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aenigmatite_-_Mineralogisches_Museum_Bonn2.jpg/245px-Aenigmatite_-_Mineralogisches_Museum_Bonn2.jpg</image>
+        <information>
+            <category>Inosilicates</category>
+            <formula>Na
+                <sub>2</sub>Fe
+                <sub>2</sub>+
+                <sub>5</sub>TiSi
+                <sub>6</sub>O
+                <sub>20</sub>
+            </formula>
+            <strunz>09.DH.40</strunz>
+            <crystal>Triclinic - pseudomonoclinic</crystal>
+            <color>Velvet-black</color>
+            <luster>Vitreous to greasy</luster>
+            <streak>Reddish brown</streak>
+            <diaphaneity>Translucent to opaque</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Braunite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Braunite-21333.jpg/245px-Braunite-21333.jpg</image>
+        <information>
+            <category>Nesosilicates</category>
+            <formula>Mn
+                <sub>2</sub>+Mn
+                <sub>3</sub>+
+                <sub>6</sub>[O
+                <sub>8</sub>|SiO
+                <sub>4</sub>]
+            </formula>
+            <strunz>09.AG.05</strunz>
+            <crystal>tetragonal</crystal>
+            <color>brownish black, steel-grey</color>
+            <luster>sub-metallic</luster>
+            <streak>black</streak>
+            <diaphaneity>opaque</diaphaneity>
+            <group>Silicates</group> 
+        </information>   
+    </mineral>
+    <mineral>
+        <name>Brazilianite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Brazilianite-4jg60a.jpg/245px-Brazilianite-4jg60a.jpg</image>
+        <information>
+            <category>Phosphate</category>
+		    <formula>NaAl
+			    <sub>3</sub>(PO
+			    <sub>4</sub>)
+			    <sub>2</sub>(OH)
+			    <sub>4</sub>
+		    </formula>
+            <strunz>08.BK.05</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Yellow, green, colorless</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Phosphates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Brianyoungite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brianyoungite-122711.jpg/260px-Brianyoungite-122711.jpg</image>
+        <information>
+            <category>Carbonate</category>
+            <formula>Zn
+                <sub>3</sub>(CO
+                <sub>3</sub>,SO
+                <sub>4</sub>)(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>5.BF.30</strunz>
+            <crystal>Monoclinic pseudo-orthorhombic with β close to 90o</crystal>
+            <color>White</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Carbonates</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Brochantite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Brochantite-118497.jpg/245px-Brochantite-118497.jpg</image>
+        <information>
+            <category>Sulfate</category>
+            <formula>Cu
+                <sub>4</sub>SO
+                <sub>4</sub>(OH)
+                <sub>6</sub>
+            </formula>
+            <strunz>07.BB.25</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Green, emerald green, or black</color>
+            <luster>Vitreous - pearly</luster>
+            <streak>Pale green</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Sulfates</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Bromargyrite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bromargyrite-rh3-12b.jpg/245px-Bromargyrite-rh3-12b.jpg</image>
+        <information>
+            <category>Halide</category>
+            <formula>AgBr</formula>
+            <strunz>03.AA.15</strunz>
+            <crystal>Isometric</crystal>
+            <color>Yellowish, greenish brown, bright green</color>
+            <luster>Adamantine, resinous, waxy</luster>
+            <streak>White to yellowish white</streak>
+            <diaphaneity>Transparent, translucent</diaphaneity>
+            <group>Halides</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Bustamite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bustamite-215493.jpg/245px-Bustamite-215493.jpg</image>    
+        <information>
+            <category>Inosilicate</category>
+            <formula>CaMn
+                <sub>2</sub>+Si
+                <sub>2</sub>O
+                <sub>6</sub>
+            </formula>
+            <strunz>09.DG.058</strunz>
+            <crystal>Triclinic 1 pinacoidal</crystal>
+            <color>Light pink to brownish red Pink color fades on exposure to sunlight</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Translucent to transparent</diaphaneity>
+            <group>Silicates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Cacoxenite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cacoxenite-40667.jpg/220px-Cacoxenite-40667.jpg</image>    
+        <information>
+            <category>Phosphate</category>
+            <formula>Fe
+                <sub>3</sub>+
+                <sub>24</sub>Al(PO
+                <sub>4</sub>)
+                <sub>17</sub>O
+                <sub>6</sub>(OH)
+                <sub>12</sub>·
+                <sub>17</sub>(H
+                <sub>2</sub>O)
+            </formula>
+            <strunz>08.DC.40</strunz>
+            <crystal>Hexagonal</crystal>
+            <color>Yellow to brownish yellow, reddish orange, golden yellow, deep orange, green; yellow in transmitted light</color>
+            <luster>Silky</luster>
+            <streak>White</streak>
+            <diaphaneity>semitransparent</diaphaneity>
+            <group>Phosphates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Cadmoindite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cadmoindite.jpg/260px-Cadmoindite.jpg</image>
+        <information>
+            <category>SulfideThiospinel groupSpinel structural group</category>
+            <formula>Cdln
+                <sub>2</sub>S
+                <sub>4</sub>
+            </formula>
+            <strunz>02.DA.05</strunz>
+            <crystal>Cubic</crystal>
+            <color>Black to dark brown</color>
+            <luster>Adamantine</luster>
+            <diaphaneity>translucent</diaphaneity>
+            <group>Sulfides</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Cahnite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cahnite-t06-93a.jpg/245px-Cahnite-t06-93a.jpg</image> 
+        <information>
+            <category>Borate</category>
+            <formula>Ca
+                <sub>2</sub>B(AsO
+                <sub>4</sub>)(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>06.AC.70</strunz>
+            <crystal>Tetragonal, dysphenoidal</crystal>
+            <color>Colourless to white</color>
+            <luster>Vitreous</luster>
+            <diaphaneity>Transparent</diaphaneity>
+            <group>Borates</group>    
+        </information>   
+    </mineral>
+    <mineral>
+        <name>Calaverite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Calaverite-214667.jpg/245px-Calaverite-214667.jpg</image>
+        <information>
+            <category>Telluride</category>
+            <formula>AuTe
+                <sub>2</sub>
+            </formula>
+            <strunz>02.EA.10</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Brass yellow to silver white</color>
+            <luster>Metallic</luster>
+            <streak>Green to yellow grey</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Other</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Calcite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Calcite-67881.jpg/280px-Calcite-67881.jpg</image>
+        <information>
+        	<category>Carbonate</category>
+        <formula>CaCO
+            <sub>3</sub>
+        </formula>
+        <strunz>05.AB.05</strunz>
+        <crystal>Trigonal hexagonal scalenohedral (32/m), Space Group (R3 2/c)</crystal>
+        <color>Colorless or white, also gray, yellow, green,</color>
+        <luster>Vitreous to pearly on cleavage surfaces</luster>
+        <streak>White</streak>
+        <diaphaneity>Transparent to translucent</diaphaneity>
+        <group>Carbonates</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Danalite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danalite-202027.jpg/280px-Danalite-202027.jpg</image>
+        <information>
+            <category>Sodalite - Feldspathoid</category>
+            <formula>Fe
+                <sub>2</sub>+
+                <sub>4</sub>Be
+                <sub>3</sub>(SiO
+                <sub>4</sub>)
+                <sub>3</sub>S
+            </formula>
+            <strunz>09.FB.10</strunz>
+            <crystal>Isometric - hextetrahedral (4 3m)</crystal>
+            <color>Yellow, pink, reddish brown, red: colorless to pink in thin section</color>
+            <luster>Vitreous or greasy</luster>
+            <streak>Grey white</streak>
+            <diaphaneity>Semitransparent</diaphaneity>
+            <group>Other</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Danburite</name>
+		<image >https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danburite_2581.jpg/180px-Danburite_2581.jpg</image>
+        <information>
+            <category>Tectosilicates</category>
+            <formula>CaB
+                <sub>2</sub>(SiO
+                <sub>4</sub>)
+                <sub>2</sub>
+            </formula>
+            <strunz>9.FA.65</strunz>
+            <crystal>Orthorhombic</crystal>
+            <luster>Vitreous – greasy</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Silicates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Datolite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Datolite-rom25c.jpg/245px-Datolite-rom25c.jpg</image>
+        <information>
+            <category>Nesosilicate</category>
+            <formula>CaBSiO
+                <sub>4</sub>(OH)
+            </formula>
+            <strunz>09.AJ.20</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Colorless or white; may be grayish, yellow, green, red, pink</color>
+            <luster>Vitreous, rarely subresinous on fracture surface</luster>
+            <diaphaneity>Transparent to translucent, rarely opaque</diaphaneity>
+            <group>Silicates</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Dawsonite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dawsonite-90694.jpg/245px-Dawsonite-90694.jpg</image> 
+        <information>
+            <category>Carbonate</category>
+            <formula>
+                <sub>144</sub>.
+                <sub>00</sub>
+            </formula>
+            <strunz>05.BB.10</strunz>
+            <crystal>orthorhombic</crystal>
+            <color>white</color>
+            <luster>vitreous</luster>
+            <streak>white</streak>
+            <diaphaneity>transparent</diaphaneity>
+            <group>Carbonates</group>    
+        </information>   
+    </mineral>
+    <mineral>
+        <name>Delafossite</name>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cuprite-Delafossite-133432.jpg/280px-Cuprite-Delafossite-133432.jpg</image>
+        <information>
+            <category>Oxide</category>
+            <formula>CuFeO
+                <sub>2</sub>
+            </formula>
+            <strunz>04.AB.15</strunz>
+            <crystal>Trigonal</crystal>
+            <color>Black; pale brownish rose in reﬂected light</color>
+            <luster>Metallic</luster>
+            <streak>Black</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Oxides</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Descloizite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Descloizite-120557.jpg/245px-Descloizite-120557.jpg</image> 
+        <information>
+            <category>Vanadate</category>
+            <formula>(Pb,Zn)
+                <sub>2</sub>VO
+                <sub>4</sub>OH
+            </formula>
+            <strunz>08.BH.40</strunz>
+            <crystal>Orthorhombic</crystal>
+            <color>Brownish red, red-orange, reddish to blackish brown, nearly black</color>
+            <luster>Greasy</luster>
+            <streak>Orange to brownish red</streak>
+            <diaphaneity>Transparent to opaque</diaphaneity>
+            <group>Other</group>
+        </information>   
+    </mineral>
+    <mineral>
+        <name>Devilline</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Devilline-t08-23b.jpg/220px-Devilline-t08-23b.jpg</image>
+        <information>
+            <category>Sulfate</category>
+            <formula>CaCu
+                <sub>4</sub>(SO
+                <sub>4</sub>)
+                <sub>2</sub>(OH)
+                <sub>6</sub>·
+                <sub>3</sub>(H
+                <sub>2</sub>O)
+            </formula>
+            <strunz>07.DD.30</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>green, blueish green; green in transmitted light</color>
+            <luster>vitreous, pearly</luster>
+            <streak>light green</streak>
+            <diaphaneity>opaque</diaphaneity>
+            <group>Sulfates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Diaboleite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Diaboleite-21675.jpg/260px-Diaboleite-21675.jpg</image>
+        <information>
+            <category>Halide</category>
+            <formula>Pb
+                <sub>2</sub>CuCl
+                <sub>2</sub>(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>3.DB.05</strunz>
+            <crystal>Tetragonal</crystal>
+            <color>Blue</color>
+            <luster>Adamantine, pearly on cleavages</luster>
+            <streak>Pale blue</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Halides</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Diamond</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rough_diamond.jpg/250px-Rough_diamond.jpg</image> 
+        <information>
+            <category>Native</category>
+            <formula>C</formula>
+            <strunz>0a</strunz>
+            <crystal>Isometric-Hexoctahedral (Cubic)</crystal>
+            <color>Typically yellow, brown or gray to colorless. Less often blue, green, black, translucent white, pink, violet, orange, purple and red.</color>
+            <luster>Adamantine</luster>
+            <streak>Colorless</streak>
+            <diaphaneity>Transparent to subtransparent to translucent</diaphaneity>
+            <group>Native Elements</group>    
+        </information>   
+    </mineral> 
+    <mineral>
+        <name>Diaspore</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Diaspore-Margarite-rare-09-05b.jpg/280px-Diaspore-Margarite-rare-09-05b.jpg</image>
+        <information>
+            <category>Oxide</category>
+            <formula>AIO(OH)</formula>
+            <strunz>04.FD.10</strunz>
+            <crystal>Orthorhombic dipyramidal</crystal>
+            <color>White, pale gray, colorless, greenish gray, brown, pale yellow, pink, purple; may exhibit color change</color>
+            <luster>Adamantine, vitreous, pearly on cleavage faces</luster>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Oxides</group>    
+        </information>    
+    </mineral> 
+    <mineral>
+        <name>Dickite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dickite-262230.jpg/245px-Dickite-262230.jpg</image> 
+        <information>
+            <category>Phyllosilicates</category>
+            <formula>Al
+                <sub>2</sub>Si
+                <sub>2</sub>O
+                <sub>5</sub>(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>09.ED.05</strunz>
+            <crystal>Monoclinic</crystal>
+            <luster>Satiny to pearly</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent</diaphaneity>
+            <group>Silicates</group>    
+        </information>   
+    </mineral>
+    <mineral>
+        <name>Digenite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Digenite.jpg/260px-Digenite.jpg</image>
+        <information>
+            <category>Sulfide</category>
+            <formula>Cu
+                <sub>9</sub>S
+                <sub>5</sub>
+            </formula>
+            <strunz>02.BA.05e</strunz>
+            <crystal>Trigonal Hexagonal scalenohedral H-M</crystal>
+            <color>Blue to black</color>
+            <luster>Submetallic to metallic</luster>
+            <streak>Black</streak>
+            <diaphaneity>opaque</diaphaneity>
+            <group>Sulfides</group>    
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Elbaite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg/280px-Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg</image>
+        <information>
+            <category>Silicate</category>
+            <formula>Na(Li
+                <sub>1</sub>.
+                <sub>5</sub>Al
+                <sub>1</sub>.
+                <sub>5</sub>)Al
+                <sub>6</sub>Si
+                <sub>6</sub>O
+                <sub>18</sub>(BO
+                <sub>3</sub>)
+                <sub>3</sub>(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>09.CK.05</strunz>
+            <crystal>Trigonal</crystal>
+            <color>Green, red to pink, blue, orange, yellow, colorless, multicolored</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to opaque</diaphaneity>
+            <group>Silicates</group>
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Emmonsite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Emmonsite-132863.jpg/245px-Emmonsite-132863.jpg</image>
+        <information>
+            <category>Tellurite</category>
+            <formula>Fe
+                <sub>2</sub>(TeO
+                <sub>3</sub>)
+                <sub>3</sub>·
+                <sub>2</sub>(H
+                <sub>2</sub>O)
+            </formula>
+            <strunz>04.JM.10</strunz>
+            <crystal>Triclinic</crystal>
+            <color>Yellowish green</color>
+            <crystal>Triclinic pinacoidalH-M</crystal>
+            <luster>Vitreous</luster>
+            <diaphaneity>Opaque to translucent</diaphaneity>
+            <group>Other</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Enargite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Enargite-122840.jpg/280px-Enargite-122840.jpg</image>
+        <information>
+            <category>Sulfide</category>
+            <formula>Cu
+                <sub>3</sub>AsS
+                <sub>4</sub>
+            </formula>
+            <strunz>02.KA.05</strunz>
+            <crystal>Orthorhombic</crystal>
+            <color>Grayish black to iron black; gray to pale pink-brown, deep red internal reﬂections in polished section</color>
+            <luster>Metallic to dull</luster>
+            <streak>Black</streak>
+            <group>Sulfides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Enstatite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Enstatite-pas-146a.jpg/280px-Enstatite-pas-146a.jpg</image>
+        <information>
+            <category>Inosilicate</category>
+            <formula>MgSiO
+                <sub>3</sub>
+            </formula>
+            <strunz>09.DA.05</strunz>
+            <crystal>Orthorhombic</crystal>
+            <color>White, grey, green, yellow or brown - colorless in thin section.</color>
+            <luster>Vitreous, pearly on cleavage</luster>
+            <streak>Gray</streak>
+            <diaphaneity>Translucent to opaque</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral> 
+    <mineral>
+        <name>Eosphorite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%C3%89osphorite%2C_quartz.jpeg/245px-%C3%89osphorite%2C_quartz.jpeg</image>
+        <information>
+            <category>Phosphate</category>
+            <formula>MnAl(PO
+                <sub>4</sub>)(OH)
+                <sub>2</sub>·H
+                <sub>2</sub>O
+            </formula>
+            <strunz>08.DD.20</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>rose, brown,red</color>
+            <crystal>Monoclinic 2/m prismatic</crystal>
+            <luster>Vitreous, resinous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Phosphates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Ephesite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ephesite-120783.jpg/260px-Ephesite-120783.jpg</image>
+        <information>
+            <category>Phyllosilicate</category>
+            <formula>NaLiAl
+                <sub>2</sub>(Al
+                <sub>2</sub>Si
+                <sub>2</sub>)O
+                <sub>10</sub>(OH)
+                <sub>2</sub>
+            </formula>
+            <strunz>9.EC.20</strunz>
+            <crystal>Monoclinic or triclinic</crystal>
+            <color>Brownish pink, pearl gray, pale green</color>
+            <crystal>Monoclinic prismaticH-M</crystal>
+            <luster>Vitreous, pearly on cleavage</luster>
+            <diaphaneity>Translucent</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Feldspar</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Feldspar%28Microcline%29USGOV.jpg/280px-Feldspar%28Microcline%29USGOV.jpg</image>
+        <information>
+            <category>tectosilicate</category>
+            <formula>KAlSi
+                <sub>3</sub>O
+                <sub>8</sub> – NaAlSi
+                <sub>3</sub>O
+                <sub>8</sub> – CaAl
+                <sub>2</sub>Si
+                <sub>2</sub>O
+                <sub>8</sub>
+            </formula>
+            <crystal>triclinic or monoclinic</crystal>
+            <luster>Vitreous</luster>
+            <streak>white</streak>
+            <diaphaneity>opaque</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Ferberite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ferberite_-_Panasqueira_mines%2C_Beira_Baixa%2C_Portugal.jpg/280px-Ferberite_-_Panasqueira_mines%2C_Beira_Baixa%2C_Portugal.jpg</image>
+        <information>
+            <category>Tungstate</category>
+            <formula>FeWO
+                <sub>4</sub>
+            </formula>
+            <strunz>04.DB.30</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Black, dark brown in transmitted light</color>
+            <luster>Submetallic to metallic adamantine</luster>
+            <streak>Brownish black</streak>
+            <diaphaneity>Nearly to entirely opaque</diaphaneity>
+            <group>Other</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Fergusonite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fergusonit.jpg/245px-Fergusonit.jpg</image>
+        <information>
+            <category>Oxide</category>
+            <formula>(Ce,Nd,Y)NbO
+                <sub>4</sub>.O.3H
+                <sub>2</sub>O
+            </formula>
+            <strunz>7.GA.05</strunz >
+            <crystal>Tetragonal - Dipyramidal (4/m) I 41/a</crystal>
+            <color>Black, Black, Brown, Gray, Yellow</color>
+            <luster>Sub Metallic</luster>
+            <streak>Brown</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Oxides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Ferrihydrite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ferrihydrite_to_goethite.jpg/245px-Ferrihydrite_to_goethite.jpg</image>
+        <information>
+            <category>Oxide</category>
+            <formula>(Fe)
+                <sub>4-5</sub>(OH,O)
+                <sub>12</sub> 
+            </formula>
+            <strunz>04.FE.35</strunz>
+            <crystal>Trigonal</crystal>
+            <color>Dark brown, yellow-brown</color>
+            <luster>N/A</luster>
+            <streak>Yellow-brown</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Oxides</group>
+        </information>
+    </mineral> 
+    <mineral>
+        <name>Ferrimolybdite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ferrimolybdite-223140.jpg/280px-Ferrimolybdite-223140.jpg</image>
+        <information>
+            <category>Molybdate</category>
+            <formula>Fe
+                <sub>3</sub>+
+                <sub>2</sub>(MoO
+                <sub>4</sub>)
+                <sub>3</sub>·
+                <sub>8</sub>(H
+                <sub>2</sub>O) or Fe
+                <sub>3</sub>+
+                <sub>2</sub>(MoO
+                <sub>4</sub>)
+                <sub>3</sub>·n(H
+                <sub>2</sub>O)
+            </formula>
+            <strunz>7.GB.30</strunz>
+            <crystal>Orthorombic</crystal>
+            <color>Canary-yellow, straw-yellow, greenish yellow</color>
+            <luster>Adamantine, silky, earthy</luster>
+            <streak>Light yellow</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Other</group>
+        </information>
+    </mineral> 
+    <mineral>
+        <name>Gahnite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gahnite.jpg/280px-Gahnite.jpg</image>
+        <information>
+            <category>Oxide</category>
+            <formula>ZnAl
+                <sub>2</sub>O
+                <sub>4</sub>
+            </formula>
+            <strunz>04.BB.05</strunz>
+            <crystal>Isometric</crystal>
+            <color>Dark green, bluish green, blue to indigo, yellow to brown</color>
+            <luster>Vitreous</luster>
+            <streak>Grey</streak>
+            <diaphaneity>Translucent to nearly opaque</diaphaneity>
+            <group>Oxides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Galena</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg/280px-Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg</image>
+        <information>
+            <category>Sulfide</category>
+            <formula>PbS</formula>
+            <strunz>02.CD.10</strunz>
+            <crystal>Cubic</crystal>
+            <color>Lead gray and silvery</color>
+            <luster>Metallic on cleavage planes</luster>
+            <streak>Lead gray</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Sulfides</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Garnet</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Garnet_Andradite20.jpg/260px-Garnet_Andradite20.jpg</image>
+        <information>
+            <category>Nesosilicate</category>
+            <formula>X
+                <sub>3</sub>Y
+                <sub>2</sub>(SiO
+                <sub>4</sub>)
+                <sub>3</sub>
+            </formula>
+            <crystal>Cubic, rhombic dodecahedron, icositetrahedron</crystal>
+            <color>virtually all colors, blue very rare</color>
+            <luster>vitreous to resinous</luster>
+            <streak>White</streak>
+            <diaphaneity>Traslucent</diaphaneity>
+            <group>Silicates</group>
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Gaspéite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gaspeite-235283.jpg/245px-Gaspeite-235283.jpg</image>
+        <information>
+            <category>Carbonate, anhydrous subgroup</category>
+            <formula>(Ni,Fe,Mg)CO
+                <sub>3</sub>
+            </formula>
+            <strunz>05.AB.05</strunz>
+            <crystal>Hexagonal Scalenohedral</crystal>
+            <color>Pale green, light grass or apple green</color>
+            <luster>Vitreous to dull</luster>
+            <streak>Yellow green</streak>
+            <diaphaneity>Translucent</diaphaneity>
+            <group>Carbonates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Gaylussite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gaylussit_-_Lagunillas%2C_Venezuela.jpg/245px-Gaylussit_-_Lagunillas%2C_Venezuela.jpg</image>
+        <information>
+            <category>Carbonate</category>
+            <formula>Na
+                <sub>2</sub>Ca(CO
+                <sub>3</sub>)
+                <sub>2</sub>·
+                <sub>5</sub>H
+                <sub>2</sub>O
+            </formula>
+            <strunz>05.CB.35</strunz>
+            <crystal>Monoclinic 2/m</crystal>
+            <color>Colorless, white, yellow, and grey</color>
+            <luster>vitreous</luster>
+            <streak>white</streak>
+            <diaphaneity>Transparent or translucent</diaphaneity>
+            <group>Carbonates</group>
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Gehlenite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gehlenite-sea65c.jpg/245px-Gehlenite-sea65c.jpg</image>
+        <information>
+            <category>Sorosilicates</category>
+            <formula>Ca
+                <sub>2</sub>Al[AlSiO
+                <sub>7</sub>]
+            </formula>
+            <strunz>09.BB.10</strunz>
+            <crystal>Tetragonal</crystal>
+            <color>yellow-brown, green-grey, colourless</color>
+            <luster>vitreous, greasy</luster>
+            <streak>white, grey-white</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Germanite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Germanite.jpg/245px-Germanite.jpg</image>
+        <information>
+            <category>Sulfide</category>
+            <formula>Cu
+                <sub>26</sub>Ge
+                <sub>4</sub>Fe
+                <sub>4</sub>S
+                <sub>32</sub>
+            </formula>
+            <strunz>02.CB.30</strunz>
+            <crystal>Isometric hextetrahedral H-M</crystal>
+            <color>Reddish grey tarnishing to dark brown</color>
+            <luster>Metallic</luster>
+            <streak>Dark grey to black</streak>
+            <diaphaneity>Opaque</diaphaneity>
+            <group>Sulfides</group>
+        </information>    
+    </mineral>
+    <mineral>
+        <name>Getchellite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Getchellite-232910.jpg/245px-Getchellite-232910.jpg</image>
+        <information>
+            <category>Sulfide</category>
+            <formula>
+                <sub>293</sub>.
+                <sub>81</sub> g
+            </formula>
+            <strunz>02.FA.35</strunz>
+            <crystal>Monoclinic,prismatic</crystal>
+            <color>Dark red, sometimes with a purple to green iridescent tarnish</color>
+            <luster>Vitreous to pearly on cleavage surfaces, otherwise resinous</luster>
+            <streak>Orange red</streak>
+            <diaphaneity>Transparent</diaphaneity>
+            <group>Sulfides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Gormanite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gormanite-165270.jpg/260px-Gormanite-165270.jpg</image>
+        <information>
+            <category>Phosphate</category>
+            <formula>(Fe,Mg)
+                <sub>3</sub>Al
+                <sub>4</sub>(PO
+                <sub>4</sub>)
+                <sub>4</sub>(OH)
+                <sub>6</sub>·
+                <sub>2</sub>H
+                <sub>2</sub>O
+            </formula>
+            <strunz>08.DC.45</strunz>
+            <crystal>Triclinic (pseudomonoclinic)</crystal>
+            <color>Blue green</color>
+            <luster>Sub-vitreous, greasy</luster>
+            <streak>Pale green</streak>
+            <diaphaneity>Semitransparent</diaphaneity>
+            <group>Phosphates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Halite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg/260px-Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg</image>
+        <information>
+            <category>Halide</category>
+            <formula>NaCl</formula>
+            <strunz>03.AA.20</strunz>
+            <crystal>Cubic</crystal>
+            <color>Colorless or white; also blue, purple, red, pink, yellow, orange, or gray</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent</diaphaneity>
+            <group>Halides</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Halloysite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Halloysite_variety_Indianaite_Hydrous_Aluminum_silicate_Bedford%2C_Lawrence_County%2C_Indiana_2770.jpg/220px-Halloysite_variety_Indianaite_Hydrous_Aluminum_silicate_Bedford%2C_Lawrence_County%2C_Indiana_2770.jpg</image>
+        <information>
+            <category>Phyllosilicates</category>
+            <formula>Al
+                <sub>2</sub>Si
+                <sub>2</sub>O
+                <sub>5</sub>(OH)
+                <sub>4</sub>
+            </formula>
+            <strunz>09.ED.10</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>White; grey, green, blue, yellow, red from included impurities.</color>
+            <luster>Pearly, waxy, or dull</luster>
+            <streak>White</streak>
+            <diaphaneity>Semitransparent</diaphaneity>
+            <group>Silicates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Halotrichite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mineraly.sk_-_halotrichit.jpg/280px-Mineraly.sk_-_halotrichit.jpg</image>
+        <information>
+            <category>Sulfate</category>
+            <formula>FeAl
+                <sub>2</sub>(SO
+                <sub>4</sub>)
+                <sub>4</sub>·
+                <sub>22</sub>H
+                <sub>2</sub>O.
+            </formula>
+            <strunz>07.CB.85</strunz>
+            <crystal>Monoclinic</crystal>
+            <color>Colorless to white, yellowish, greenish</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent, translucent</diaphaneity>
+            <group>Sulfates</group>    
+        </information>
+    </mineral>
+    <mineral>
+        <name>Hambergite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hambergite-t08-80a.jpg/245px-Hambergite-t08-80a.jpg</image>
+        <information>
+            <category>Borate</category>
+            <formula>Be
+                <sub>2</sub>BO
+                <sub>3</sub>(OH)
+            </formula>
+            <strunz>06.AB.05</strunz>
+            <crystal>Orthorhombic</crystal>
+            <color>Colorless, pale gray, pale yellow</color>
+            <luster>Vitreous</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Borates</group>
+        </information>
+    </mineral>
+    <mineral>
+        <name>Hanksite</name>
+		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hanksite-27109.jpg/245px-Hanksite-27109.jpg</image>
+        <information>
+            <category>Sulfate</category>
+            <formula>Na
+                <sub>22</sub>K(SO
+                <sub>4</sub>)
+                <sub>9</sub>(CO
+                <sub>3</sub>)
+                <sub>2</sub>Cl
+            </formula>
+            <strunz>07.BD.30</strunz>
+            <crystal>Hexagonal</crystal>
+            <color>Colorless to pale yellow, may be grayish green due to clay inclusions</color>
+            <luster>Vitreous to dull</luster>
+            <streak>White</streak>
+            <diaphaneity>Transparent to translucent</diaphaneity>
+            <group>Sulfates</group>
+        </information>
+    </mineral>
+</minerals>
