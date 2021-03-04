@@ -13,10 +13,11 @@ while m!=6:
     ## Ejercicio 2 ##
     if m==2:
         for i,j in contar_informacion(arbol).items():
-            print(i,":",j)
+            print(i,":",int(j))
     ## Ejercicio 3 ##
-    if m==3:
-        print(filtro(arbol))
+    # if m==3:
+    #     t=int(input("Introduce"))
+    #     print(filtro(arbol,t))
 
 print("Fin del programa.")
 
