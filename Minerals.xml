@@ -48,7 +48,7 @@
                 <sub>2</sub>SnInBiS
                 <sub>7</sub>
             </formula>
-            <strunz>02.HF.25a</strunz>
+            <strunz>02.HF.25</strunz>
             <crystal>Triclinic - Pinacoidal; Space group = P1</crystal>
             <color>Silver gray</color>
             <luster>Metallic</luster>
@@ -195,7 +195,7 @@
                 <sub>4</sub>)(OH)
                 <sub>4</sub>
             </formula>
-            <strunz>5.BF.30</strunz>
+            <strunz>05.BF.30</strunz>
             <crystal>Monoclinic pseudo-orthorhombic with β close to 90o</crystal>
             <color>White</color>
             <luster>Vitreous</luster>
@@ -248,7 +248,7 @@
                 <sub>2</sub>O
                 <sub>6</sub>
             </formula>
-            <strunz>09.DG.058</strunz>
+            <strunz>09.DG.58</strunz>
             <crystal>Triclinic 1 pinacoidal</crystal>
             <color>Light pink to brownish red Pink color fades on exposure to sunlight</color>
             <luster>Vitreous</luster>
@@ -381,7 +381,7 @@
                 <sub>4</sub>)
                 <sub>2</sub>
             </formula>
-            <strunz>9.FA.65</strunz>
+            <strunz>09.FA.65</strunz>
             <crystal>Orthorhombic</crystal>
             <luster>Vitreous – greasy</luster>
             <streak>White</streak>
@@ -490,7 +490,7 @@
                 <sub>2</sub>(OH)
                 <sub>4</sub>
             </formula>
-            <strunz>3.DB.05</strunz>
+            <strunz>03.DB.05</strunz>
             <crystal>Tetragonal</crystal>
             <color>Blue</color>
             <luster>Adamantine, pearly on cleavages</luster>
@@ -505,7 +505,7 @@
         <information>
             <category>Native</category>
             <formula>C</formula>
-            <strunz>0a</strunz>
+            <strunz>01</strunz>
             <crystal>Isometric-Hexoctahedral (Cubic)</crystal>
             <color>Typically yellow, brown or gray to colorless. Less often blue, green, black, translucent white, pink, violet, orange, purple and red.</color>
             <luster>Adamantine</luster>
@@ -556,7 +556,7 @@
                 <sub>9</sub>S
                 <sub>5</sub>
             </formula>
-            <strunz>02.BA.05e</strunz>
+            <strunz>02.BA.05</strunz>
             <crystal>Trigonal Hexagonal scalenohedral H-M</crystal>
             <color>Blue to black</color>
             <luster>Submetallic to metallic</luster>
@@ -678,7 +678,7 @@
                 <sub>10</sub>(OH)
                 <sub>2</sub>
             </formula>
-            <strunz>9.EC.20</strunz>
+            <strunz>09.EC.20</strunz>
             <crystal>Monoclinic or triclinic</crystal>
             <color>Brownish pink, pearl gray, pale green</color>
             <crystal>Monoclinic prismaticH-M</crystal>
@@ -701,6 +701,7 @@
                 <sub>2</sub>O
                 <sub>8</sub>
             </formula>
+            <strunz>09.FA.30</strunz>
             <crystal>triclinic or monoclinic</crystal>
             <luster>Vitreous</luster>
             <streak>white</streak>
@@ -734,7 +735,7 @@
                 <sub>4</sub>.O.3H
                 <sub>2</sub>O
             </formula>
-            <strunz>7.GA.05</strunz >
+            <strunz>07.GA.05</strunz >
             <crystal>Tetragonal - Dipyramidal (4/m) I 41/a</crystal>
             <color>Black, Black, Brown, Gray, Yellow</color>
             <luster>Sub Metallic</luster>
@@ -779,7 +780,7 @@
                 <sub>3</sub>·n(H
                 <sub>2</sub>O)
             </formula>
-            <strunz>7.GB.30</strunz>
+            <strunz>07.GB.30</strunz>
             <crystal>Orthorombic</crystal>
             <color>Canary-yellow, straw-yellow, greenish yellow</color>
             <luster>Adamantine, silky, earthy</luster>
@@ -832,6 +833,7 @@
                 <sub>4</sub>)
                 <sub>3</sub>
             </formula>
+            <strunz>09.AD.25</strunz>
             <crystal>Cubic, rhombic dodecahedron, icositetrahedron</crystal>
             <color>virtually all colors, blue very rare</color>
             <luster>vitreous to resinous</luster>
