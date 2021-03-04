@@ -96,3 +96,6 @@ def filtro(l):
     elif t==10:     
         g=l.xpath('//information[starts-with(strunz,"10")]/../name/text()')      
     return g
+
+def informacion_rel(t):
+    

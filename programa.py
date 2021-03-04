@@ -19,6 +19,9 @@ while m!=6:
         for i in filtro(arbol):
             print(" ")
             print(i)
+    ## Ejercicio 4 ##
+    if m==4:
+        
 
 print("Fin del programa.")
 
