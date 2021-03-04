@@ -77,6 +77,22 @@ def filtro(l):
         t=int(input("Introduce un numero del 1-10: "))
     if t==1:
         g=l.xpath('//information[starts-with(strunz,"01")]/../name/text()')
-    
-        
+    elif t==2:
+        g=l.xpath('//information[starts-with(strunz,"02")]/../name/text()')
+    elif t==3:
+        g=l.xpath('//information[starts-with(strunz,"03")]/../name/text()')
+    elif t==4:
+        g=l.xpath('//information[starts-with(strunz,"04")]/../name/text()')
+    elif t==5:
+        g=l.xpath('//information[starts-with(strunz,"05")]/../name/text()')
+    elif t==6:
+        g=l.xpath('//information[starts-with(strunz,"06")]/../name/text()')
+    elif t==7:
+        g=l.xpath('//information[starts-with(strunz,"07")]/../name/text()')
+    elif t==8:
+        g=l.xpath('//information[starts-with(strunz,"08")]/../name/text()')
+    elif t==9:
+        g=l.xpath('//information[starts-with(strunz,"09")]/../name/text()')
+    elif t==10:     
+        g=l.xpath('//information[starts-with(strunz,"10")]/../name/text()')      
     return g
