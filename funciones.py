@@ -122,6 +122,6 @@ def informacion_rel(l):
     21- Molybdate.
     22- Sorosilicate.
     ''')
-    t=input("Introduce una categoría de las aparecidas: ")
+    t=input("Introduce una categoría de las aparecidas o unas cuantas letras: ")
     n=l.xpath('//information[category[contains(text(),"%s")]]/../name/text()'%t)
     return n

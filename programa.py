@@ -21,7 +21,9 @@ while m!=6:
             print(i)
     ## Ejercicio 4 ##
     if m==4:
-        print(informacion_rel(arbol))
+        for i in informacion_rel(arbol):
+            print(" ")
+            print(i)
 
 print("Fin del programa.")
 
