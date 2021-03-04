@@ -58,32 +58,25 @@ def contar_informacion(l):
     dic1["Elementos Nativos"]=Nae
     return dic1
     
-# def filtro(l,t):
-#     dic2={}
-#     lita=[]
-#     n=l.xpath('//information/[strunz="%i"]//name/text()'%t)
-#     s=l.xpath("//information/strunz/text()")
-#     # for i,j in zip(n,s):
-#     #     dic2[i]=j.split(".")[0]
-#     # print('''
-#     # 1- Minerales elementos.
-#     # 2- Minerales sulfuros y sulfosales.
-#     # 3- Minerales haluros.
-#     # 4- Minerales óxidos e hidróxidos.
-#     # 5- Minerales carbonatos y nitratos.
-#     # 6- Minerales boratos.
-#     # 7- Minerales sulfatos.
-#     # 8- Minerales fosfatos.
-#     # 9- Minerales silicatos.
-#     # 10- Compuestos orgánicos.
-#     # ''')
-#     # t=int(input("Introduce un numero del 1-10: "))
-#     # while t<0 or t>10:
-#     #     print("Error, debe ser un número del 1-10.")
-#     #     t=int(input("Introduce un numero del 01-10: "))
-#     # if t=1:
-#     #     for i,j in dic2.items():
-#     #         if j=="01":
-                
-
-#     return n
+def filtro(l):
+    print('''
+    1- Minerales elementos.
+    2- Minerales sulfuros y sulfosales.
+    3- Minerales haluros.
+    4- Minerales óxidos e hidróxidos.
+    5- Minerales carbonatos y nitratos.
+    6- Minerales boratos.
+    7- Minerales sulfatos.
+    8- Minerales fosfatos.
+    9- Minerales silicatos.
+    10- Compuestos orgánicos.
+    ''')
+    t=int(input("Introduce un numero del 1-10: "))
+    while t<0 or t>10:
+        print("Error, debe ser un número del 1-10.")
+        t=int(input("Introduce un numero del 1-10: "))
+    if t==1:
+        g=l.xpath('//information[starts-with(strunz,"01")]/../name/text()')
+    
+        
+    return g
