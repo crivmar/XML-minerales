@@ -43,7 +43,7 @@
         <name>Abramovite</name>
         <image>https://upload.wikimedia.org/wikipedia/commons/d/dc/Abramovite.jpg</image>
         <information>
-            <category>Sulfides and Sulfosalts</category>
+            <category>Sulfide</category>
             <formula>Pb
                 <sub>2</sub>SnInBiS
                 <sub>7</sub>
@@ -285,7 +285,7 @@
         <name>Cadmoindite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cadmoindite.jpg/260px-Cadmoindite.jpg</image>
         <information>
-            <category>SulfideThiospinel groupSpinel structural group</category>
+            <category>Sulfides</category>
             <formula>Cdln
                 <sub>2</sub>S
                 <sub>4</sub>
@@ -320,7 +320,7 @@
         <name>Calaverite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Calaverite-214667.jpg/245px-Calaverite-214667.jpg</image>
         <information>
-            <category>Telluride</category>
+            <category>Tellurite</category>
             <formula>AuTe
                 <sub>2</sub>
             </formula>
@@ -354,7 +354,7 @@
         <name>Danalite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danalite-202027.jpg/280px-Danalite-202027.jpg</image>
         <information>
-            <category>Sodalite - Feldspathoid</category>
+            <category>Sodalite</category>
             <formula>Fe
                 <sub>2</sub>+
                 <sub>4</sub>Be
@@ -691,7 +691,7 @@
         <name>Feldspar</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Feldspar%28Microcline%29USGOV.jpg/280px-Feldspar%28Microcline%29USGOV.jpg</image>
         <information>
-            <category>tectosilicate</category>
+            <category>Tectosilicate</category>
             <formula>KAlSi
                 <sub>3</sub>O
                 <sub>8</sub> – NaAlSi
@@ -846,7 +846,7 @@
         <name>Gaspéite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gaspeite-235283.jpg/245px-Gaspeite-235283.jpg</image>
         <information>
-            <category>Carbonate, anhydrous subgroup</category>
+            <category>Carbonate</category>
             <formula>(Ni,Fe,Mg)CO
                 <sub>3</sub>
             </formula>
