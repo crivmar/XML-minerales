@@ -14,7 +14,9 @@ while m!=6:
     if m==2:
         for i,j in contar_informacion(arbol).items():
             print(i,":",j)
-
+    ## Ejercicio 3 ##
+    if m==3:
+        print(filtro(arbol))
 
 print("Fin del programa.")
 

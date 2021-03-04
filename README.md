@@ -5,7 +5,7 @@ Ejercicio final trimestre XML
 
 2- Contar información: Te muestra el número de minerales que hay por grupos.
 
-3- Buscar o filtrar información: Escribir un número de 01-10 (dos dígitos) y te dice que minerales tienen ese grupo de clasificación strunz.
+3- Buscar o filtrar información: Escribir un número del 01-10 y te dice que minerales tienen ese grupo de clasificación strunz.
 
 4- Buscar información relacionada: Escribe el nombre de una categoría y te muestra los minerales que pertenecen a ella.
 
