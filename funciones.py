@@ -97,5 +97,31 @@ def filtro(l):
         g=l.xpath('//information[starts-with(strunz,"10")]/../name/text()')      
     return g
 
-def informacion_rel(t):
-    
+def informacion_rel(l):
+    print('''
+    1- Organic.
+    2- Arsenate.
+    3- Sulfide.
+    4- Inosilicate.
+    5- Silicate.
+    6- Nesosilicate.
+    7- Phosphate.
+    8- Carbonate.
+    9- Sulfate.
+    10- Halide.
+    11- Borate.
+    12- Tellurite.
+    13- Sodalite.
+    14- Tectosilicate.
+    15- Oxide.
+    16- Vanadate.
+    17- Sulfate.
+    18- Native.
+    19- Phyllosilicate.
+    20- Tungstate.
+    21- Molybdate.
+    22- Sorosilicate.
+    ''')
+    t=input("Introduce una categoría de las aparecidas: ")
+    n=l.xpath('//information[category[contains(text(),"%s")]]/../name/text()'%t)
+    return n
