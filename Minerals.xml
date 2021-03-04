@@ -61,7 +61,7 @@
         <name>Actinolite</name>
         <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Actinolite_Portugal.jpg/280px-Actinolite_Portugal.jpg</image>
         <information>
-            <category>Inosilicates</category>
+            <category>Inosilicate</category>
             <formula>Ca
                 <sub>2</sub>(Mg
                 <sub>4</sub>.
@@ -126,7 +126,7 @@
         <name>Aenigmatite</name>
         <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aenigmatite_-_Mineralogisches_Museum_Bonn2.jpg/245px-Aenigmatite_-_Mineralogisches_Museum_Bonn2.jpg</image>
         <information>
-            <category>Inosilicates</category>
+            <category>Inosilicate</category>
             <formula>Na
                 <sub>2</sub>Fe
                 <sub>2</sub>+
@@ -147,7 +147,7 @@
         <name>Braunite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Braunite-21333.jpg/245px-Braunite-21333.jpg</image>
         <information>
-            <category>Nesosilicates</category>
+            <category>Nesosilicate</category>
             <formula>Mn
                 <sub>2</sub>+Mn
                 <sub>3</sub>+
@@ -375,7 +375,7 @@
         <name>Danburite</name>
 		<image >https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danburite_2581.jpg/180px-Danburite_2581.jpg</image>
         <information>
-            <category>Tectosilicates</category>
+            <category>Tectosilicate</category>
             <formula>CaB
                 <sub>2</sub>(SiO
                 <sub>4</sub>)
@@ -532,7 +532,7 @@
         <name>Dickite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dickite-262230.jpg/245px-Dickite-262230.jpg</image> 
         <information>
-            <category>Phyllosilicates</category>
+            <category>Phyllosilicate</category>
             <formula>Al
                 <sub>2</sub>Si
                 <sub>2</sub>O
@@ -884,7 +884,7 @@
         <name>Gehlenite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gehlenite-sea65c.jpg/245px-Gehlenite-sea65c.jpg</image>
         <information>
-            <category>Sorosilicates</category>
+            <category>Sorosilicate</category>
             <formula>Ca
                 <sub>2</sub>Al[AlSiO
                 <sub>7</sub>]
@@ -978,7 +978,7 @@
         <name>Halloysite</name>
 		<image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Halloysite_variety_Indianaite_Hydrous_Aluminum_silicate_Bedford%2C_Lawrence_County%2C_Indiana_2770.jpg/220px-Halloysite_variety_Indianaite_Hydrous_Aluminum_silicate_Bedford%2C_Lawrence_County%2C_Indiana_2770.jpg</image>
         <information>
-            <category>Phyllosilicates</category>
+            <category>Phyllosilicate</category>
             <formula>Al
                 <sub>2</sub>Si
                 <sub>2</sub>O
