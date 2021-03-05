@@ -30,32 +30,18 @@ def listar_informacion(l):
 
 def contar_informacion(l):
     dic1={}
-    for g in l.xpath("//information/group"):
-        O=g.xpath('count(//information[group="Organic Minerals"])')
-        Ar=g.xpath('count(//information[group="Arsenates"])')
-        Sulf=g.xpath('count(//information[group="Sulfides"])')
-        Sil=g.xpath('count(//information[group="Silicates"])')
-        Pho=g.xpath('count(//information[group="Phosphates"])')
-        Car=g.xpath('count(//information[group="Carbonates"])')
-        Sulfa=g.xpath('count(//information[group="Sulfates"])')
-        Hal=g.xpath('count(//information[group="Halides"])')
-        Bor=g.xpath('count(//information[group="Borates"])')
-        Ot=g.xpath('count(//information[group="Other"])')
-        Ox=g.xpath('count(//information[group="Oxides"])')
-        Nae=g.xpath('count(//information[group="Native Elements"])')
-
-    dic1["Minerales Orgánicos"]=O
-    dic1["Arseniatos"]=Ar
-    dic1["Sulfuros"]=Sulf
-    dic1["Silicatos"]=Sil
-    dic1["Fosfatos"]=Pho
-    dic1["Carbonatos"]=Car
-    dic1["Sulfatos"]=Sulfa
-    dic1["Haluros"]=Hal
-    dic1["Boratos"]=Bor
-    dic1["Otros"]=Ot
-    dic1["Óxidos"]=Ox
-    dic1["Elementos Nativos"]=Nae
+    dic1["Minerales Orgánicos"]=g.xpath('count(//information[group="Organic Minerals"])')
+    dic1["Arseniatos"]=g.xpath('count(//information[group="Arsenates"])')
+    dic1["Sulfuros"]=g.xpath('count(//information[group="Sulfides"])')
+    dic1["Silicatos"]=g.xpath('count(//information[group="Silicates"])')
+    dic1["Fosfatos"]=g.xpath('count(//information[group="Phosphates"])')
+    dic1["Carbonatos"]=g.xpath('count(//information[group="Carbonates"])')
+    dic1["Sulfatos"]=g.xpath('count(//information[group="Sulfates"])')
+    dic1["Haluros"]=g.xpath('count(//information[group="Halides"])')
+    dic1["Boratos"]=g.xpath('count(//information[group="Borates"])')
+    dic1["Otros"]=g.xpath('count(//information[group="Other"])')
+    dic1["Óxidos"]=g.xpath('count(//information[group="Oxides"])')
+    dic1["Elementos Nativos"]=g.xpath('count(//information[group="Native Elements"])')
     return dic1
     
 def filtro(l):
@@ -127,7 +113,9 @@ def informacion_rel(l):
     return n
 
 def elemen_qui(l):
+    dic={}
     t=input("Introduce un elemento de la tabla periódica (p.e: Pb (Plomo),Si (Silicio), Ca (Calcio)): ")
     n=l.xpath('//information[formula[contains(text(),"%s")]]/../name/text()'%t)
     f=l.xpath('////formula[contains(text(),"%s")]//text()'%t)
-    return zip(n,f)
+    dic[n]=f
+    return dic
