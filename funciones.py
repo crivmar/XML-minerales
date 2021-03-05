@@ -125,3 +125,7 @@ def informacion_rel(l):
     t=input("Introduce una categoría de las aparecidas o unas cuantas letras: ")
     n=l.xpath('//information[category[contains(text(),"%s")]]/../name/text()'%t)
     return n
+
+def elemen_qui(l):
+    t=input("Introduce un elemento de la tabla periódica (p.e: Pb (Plomo),Si (Silicio), Ca (Calcio)): ")
+    
