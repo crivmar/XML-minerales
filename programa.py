@@ -26,7 +26,9 @@ while m!=6:
             print(i)
     ## Ejercicio 5 ##
     if m==5:
-        
+        for i in elemen_qui(arbol):
+            print(i)
+
 print("Fin del programa.")
 
 

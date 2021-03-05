@@ -128,4 +128,6 @@ def informacion_rel(l):
 
 def elemen_qui(l):
     t=input("Introduce un elemento de la tabla periódica (p.e: Pb (Plomo),Si (Silicio), Ca (Calcio)): ")
-    
+    n=l.xpath('//information[formula[contains(text(),"%s")]]/../name/text()'%t)
+    f=l.xpath('////formula[contains(text(),"%s")]//text()'%t)
+    return zip(n,f)
