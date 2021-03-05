@@ -30,18 +30,18 @@ def listar_informacion(l):
 
 def contar_informacion(l):
     dic1={}
-    dic1["Minerales Orgánicos"]=g.xpath('count(//information[group="Organic Minerals"])')
-    dic1["Arseniatos"]=g.xpath('count(//information[group="Arsenates"])')
-    dic1["Sulfuros"]=g.xpath('count(//information[group="Sulfides"])')
-    dic1["Silicatos"]=g.xpath('count(//information[group="Silicates"])')
-    dic1["Fosfatos"]=g.xpath('count(//information[group="Phosphates"])')
-    dic1["Carbonatos"]=g.xpath('count(//information[group="Carbonates"])')
-    dic1["Sulfatos"]=g.xpath('count(//information[group="Sulfates"])')
-    dic1["Haluros"]=g.xpath('count(//information[group="Halides"])')
-    dic1["Boratos"]=g.xpath('count(//information[group="Borates"])')
-    dic1["Otros"]=g.xpath('count(//information[group="Other"])')
-    dic1["Óxidos"]=g.xpath('count(//information[group="Oxides"])')
-    dic1["Elementos Nativos"]=g.xpath('count(//information[group="Native Elements"])')
+    dic1["Minerales Orgánicos"]=l.xpath('count(//information[group="Organic Minerals"])')
+    dic1["Arseniatos"]=l.xpath('count(//information[group="Arsenates"])')
+    dic1["Sulfuros"]=l.xpath('count(//information[group="Sulfides"])')
+    dic1["Silicatos"]=l.xpath('count(//information[group="Silicates"])')
+    dic1["Fosfatos"]=l.xpath('count(//information[group="Phosphates"])')
+    dic1["Carbonatos"]=l.xpath('count(//information[group="Carbonates"])')
+    dic1["Sulfatos"]=l.xpath('count(//information[group="Sulfates"])')
+    dic1["Haluros"]=l.xpath('count(//information[group="Halides"])')
+    dic1["Boratos"]=l.xpath('count(//information[group="Borates"])')
+    dic1["Otros"]=l.xpath('count(//information[group="Other"])')
+    dic1["Óxidos"]=l.xpath('count(//information[group="Oxides"])')
+    dic1["Elementos Nativos"]=l.xpath('count(//information[group="Native Elements"])')
     return dic1
     
 def filtro(l):
@@ -117,5 +117,4 @@ def elemen_qui(l):
     t=input("Introduce un elemento de la tabla periódica (p.e: Pb (Plomo),Si (Silicio), Ca (Calcio)): ")
     n=l.xpath('//information[formula[contains(text(),"%s")]]/../name/text()'%t)
     f=l.xpath('////formula[contains(text(),"%s")]//text()'%t)
-    dic[n]=f
-    return dic
+    return n,f
